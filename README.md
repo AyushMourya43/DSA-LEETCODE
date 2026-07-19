@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0263-ugly-number) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
