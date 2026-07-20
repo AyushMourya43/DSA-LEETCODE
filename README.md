@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
