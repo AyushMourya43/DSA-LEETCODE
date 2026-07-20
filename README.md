@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 ## Database
 |  |
