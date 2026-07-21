@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1678-goal-parser-interpretation](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1678-goal-parser-interpretation) |
 ## Stack
 |  |
 | ------- |
