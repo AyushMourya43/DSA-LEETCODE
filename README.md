@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1678-goal-parser-interpretation](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1678-goal-parser-interpretation) |
+| [2942-find-words-containing-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
+| [2942-find-words-containing-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
