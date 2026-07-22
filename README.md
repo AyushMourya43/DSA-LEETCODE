@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2139-minimum-moves-to-reach-target-score) |
