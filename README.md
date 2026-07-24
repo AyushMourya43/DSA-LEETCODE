@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2652-sum-multiples) |
 | [3945-digit-frequency-score](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
