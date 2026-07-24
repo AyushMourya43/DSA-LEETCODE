@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
+| [2427-number-of-common-factors](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2427-number-of-common-factors) |
 ## Database
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
