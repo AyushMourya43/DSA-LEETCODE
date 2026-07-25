@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1528-shuffle-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
 | [3945-digit-frequency-score](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/3945-digit-frequency-score) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -118,5 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
