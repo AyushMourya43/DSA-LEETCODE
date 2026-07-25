@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1528-shuffle-string) |
