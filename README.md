@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0657-robot-return-to-origin](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1528-shuffle-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0258-add-digits) |
+| [0657-robot-return-to-origin](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
