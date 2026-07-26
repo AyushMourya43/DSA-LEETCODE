@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1528-shuffle-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
