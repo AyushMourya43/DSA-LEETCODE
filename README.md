@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
