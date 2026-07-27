@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -158,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
