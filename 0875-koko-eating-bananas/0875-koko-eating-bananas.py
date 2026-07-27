@@ -20,3 +20,7 @@ class Solution(object):
                 low = mid +1  # Speed kam hai, badhao
 
         return low        # valid speed     
+
+
+# agr yahi code python m krnaa h toh forula change hogaa ( hours += math.ceil(float(pile) / mid)). k
+# python m // use nhi hotaa work nhi krtaa if u want answer in float than use float or multiply by 1.0
