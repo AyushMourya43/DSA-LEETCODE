@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1108-defanging-an-ip-address) |
+| [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1528-shuffle-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1528-shuffle-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -168,10 +171,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
