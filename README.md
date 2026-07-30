@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
