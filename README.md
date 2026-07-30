@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
+| [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
