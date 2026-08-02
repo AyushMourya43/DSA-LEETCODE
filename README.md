@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -214,4 +216,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
