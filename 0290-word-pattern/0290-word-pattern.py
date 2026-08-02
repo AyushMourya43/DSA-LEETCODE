@@ -8,19 +8,19 @@ class Solution(object):
         if len(pattern) != len(words):
             return False
 
-        # Character -> Word
+        # Character Word
         char_to_word = {}
 
-        # Word -> Character
+        # Word Character
         word_to_char = {}
 
-        # Bilkul 205 ki tarah
+    
         for i in range(len(pattern)):
 
             c1 = pattern[i]
             c2 = words[i]
 
-            # Character -> Word mapping
+            # Character to Word mapping
             if c1 in char_to_word:
 
                 if char_to_word[c1] != c2:
@@ -30,7 +30,7 @@ class Solution(object):
                 char_to_word[c1] = c2
 
 
-            # Word -> Character mapping
+            # Word to Character mapping
             if c2 in word_to_char:
 
                 if word_to_char[c2] != c1:
