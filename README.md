@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
