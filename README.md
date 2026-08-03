@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
+| [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
 ## Enumeration
 |  |
