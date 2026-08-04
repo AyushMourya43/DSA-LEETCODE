@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [0981-time-based-key-value-store](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0981-time-based-key-value-store) |
