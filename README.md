@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1512-number-of-good-pairs) |
