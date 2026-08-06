@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1268-search-suggestions-system) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
