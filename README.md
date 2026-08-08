@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0168-excel-sheet-column-title](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0290-word-pattern) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0326-power-of-three) |
