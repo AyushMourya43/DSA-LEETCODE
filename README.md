@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
