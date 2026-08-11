@@ -6,7 +6,7 @@ class Solution(object):
 
         left = 0
         right = n - 1
-        pos = n - 1      # ans length 
+        pos = n - 1      # ans pointer
 
         while left <= right:
 
