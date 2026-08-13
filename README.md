@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
