@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
