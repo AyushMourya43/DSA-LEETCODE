@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
