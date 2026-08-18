@@ -1,27 +1,27 @@
 class Solution(object):
     def isAnagram(self, s, t):
+        # return sorted(s) == sorted(t)
 
-        return sorted(s) == sorted(t)
-    # sorting timecomplexity is O(n log n )
+        # its brute force
 
+        # now optimal with hasmap
 
-# it is optimal ( hashmap )
-# if len(s) != len(t):
-#             return False
+        if len(s) != len(t):
+            return False
 
-#         count = {}
+        count ={}    
 
-#         for ch in s:
-#             count[ch] = count.get(ch, 0) + 1
+        for ch in s:
+            count[ch] = count.get(ch,0)+1
 
-#         for ch in t:
+        for ch in t:
+            if ch not in count:
+                return False
 
-#             if ch not in count:
-#                 return False
+            count[ch] -= 1
 
-#             count[ch] -= 1
+            if count[ch] < 0:
+                return False
 
-#             if count[ch] < 0:
-#                 return False
+        return True                  
 
-#         return True
