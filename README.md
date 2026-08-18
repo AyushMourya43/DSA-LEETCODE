@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
