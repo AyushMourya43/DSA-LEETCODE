@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
