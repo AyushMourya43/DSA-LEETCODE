@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
