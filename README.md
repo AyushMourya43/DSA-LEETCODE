@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0877-stone-game) |
 ## Game Theory
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
