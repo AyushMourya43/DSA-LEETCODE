@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0168-excel-sheet-column-title) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
