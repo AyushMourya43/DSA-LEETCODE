@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0168-excel-sheet-column-title) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0287-find-the-duplicate-number) |
