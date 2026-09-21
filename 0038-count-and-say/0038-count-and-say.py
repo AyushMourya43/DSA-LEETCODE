@@ -4,8 +4,8 @@ class Solution(object):
         # Starting string hamesha "1" hoti hai
         s = "1"
         
-        for i in range(n - 1):  # Har baar current string se next string banayenge
-                                # "1" se n-th string tak jaane ke liye n-1 baar
+        for i in range(n - 1):   # "1" se n-th string tak jaane ke liye n-1 baar
+                               
             result = ""
             i = 0
             
