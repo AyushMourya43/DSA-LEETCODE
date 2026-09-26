@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0735-asteroid-collision) |
 | [0819-most-common-word](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0735-asteroid-collision) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 ## Prefix Sum
