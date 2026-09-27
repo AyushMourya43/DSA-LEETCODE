@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0342-power-of-four) |
 ## Trie
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
