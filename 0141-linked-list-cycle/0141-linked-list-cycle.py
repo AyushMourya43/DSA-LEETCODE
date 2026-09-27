@@ -7,15 +7,28 @@
 class Solution(object):
     def hasCycle(self, head):
 
-        temp = head
-        my_set = set()
+        # temp = head
+        # my_set = set()
 
-        while temp is not None:
+        # while temp is not None:
 
-            if temp in my_set:
+        #     if temp in my_set:
+        #         return True
+
+        #     my_set.add(temp)
+        #     temp = temp.next
+
+        # return False    
+
+        slow = head
+        fast = head
+
+        while fast is not None and fast.next is not None:
+
+            slow = slow.next
+            fast = fast.next.next
+
+            if slow == fast:
                 return True
 
-            my_set.add(temp)
-            temp = temp.next
-
-        return False    
+        return False        
