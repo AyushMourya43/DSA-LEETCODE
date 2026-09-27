@@ -11,8 +11,7 @@ class Solution(object):
 
             if abs(current) > abs(next_asteroid):
                 asteroids.pop(i+1)
-                if i > 0:
-                    i-=1  
+                
 
             elif abs(current) < abs(next_asteroid):
                 asteroids.pop(i)
@@ -23,6 +22,9 @@ class Solution(object):
             else:
                 asteroids.pop(i+1)
                 asteroids.pop(i)
+
+                if i > 0:
+                    i-=1  
 
          else:
             i +=1
