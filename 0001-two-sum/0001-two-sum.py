@@ -1,16 +1,16 @@
 class Solution(object):
     def twoSum(self, nums, target):
-
+       
        n = len(nums)
        seen = {}
 
        for i in range(0,n):
-         need = target - nums[i] # remaining jo  bacchaa woh
+          need = target - nums[i]
 
-         if need in seen:
+          if need in seen:
             return[seen[need],i]
 
-         seen[nums[i]] = i   
+          seen[nums[i]]=i 
 
 # brute force
 #  for i in range(len(nums)):
