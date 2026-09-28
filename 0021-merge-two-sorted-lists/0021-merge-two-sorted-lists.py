@@ -20,4 +20,6 @@ class Solution(object):
             temp.next = ListNode(x)
             temp = temp.next
 
-        return dummy.next
+        return dummy.next        
+    
+
