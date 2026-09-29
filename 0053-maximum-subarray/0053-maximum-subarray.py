@@ -6,11 +6,10 @@ class Solution(object):
 
         for i in range(1,len(nums)):
 
-            current = max(nums[i],current + nums[i])
-            maximum = max(maximum , current)
+            current = max(nums[i] , current+nums[i])
+            maximum = max(current , maximum)
 
         return maximum    
-        
         # brute force
         # maximum = nums[0]
         
