@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
