@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/AyushMourya43/DSA-LEETCODE/tree/master/1934-confirmation-rate) |
 ## Bit Manipulation
 |  |
 | ------- |
