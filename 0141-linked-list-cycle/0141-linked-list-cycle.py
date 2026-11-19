@@ -31,4 +31,4 @@ class Solution(object):
             if slow == fast:
                 return True
 
-        return False        
+        return False 
